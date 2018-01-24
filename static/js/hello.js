@@ -1,3 +1,3 @@
 function sayHello() {
-   alert("YAASSS QUEEEN");
+   alert("YAASS Queen");
 }
